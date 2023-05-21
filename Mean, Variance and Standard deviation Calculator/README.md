@@ -1,4 +1,4 @@
-<h1>Mean-Variance-Standard Deviation Calculator<h1>
+<h1>Mean-Variance-Standard Deviation Calculator</h1>
 <div class="challenge-instructions  "><div><section id="description">
 <p>You will be <a href="https://replit.com/github/freeCodeCamp/boilerplate-mean-variance-standard-deviation-calculator" target="_blank" rel="noopener noreferrer nofollow">working on this project with our Replit starter code</a>.</p>
 <ul>
