@@ -1,4 +1,4 @@
-<h2> Clarification: This project was created using Replit, you can check it on https://replit.com/@LautaroOchotore/Medical-Data-Visualizer</h2>
+<h2> Clarification: This project was created using Replit. You can check it on https://replit.com/@LautaroOchotore/Medical-Data-Visualizer</h2>
 <h1> Medical Data Visualizer </h1>
 <div class="challenge-instructions  "><div><section id="description">
 <p>You will be <a href="https://replit.com/github/freeCodeCamp/boilerplate-medical-data-visualizer" target="_blank" rel="noopener noreferrer nofollow">working on this project with our Replit starter code</a>.</p>
