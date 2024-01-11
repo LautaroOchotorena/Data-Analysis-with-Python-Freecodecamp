@@ -10,4 +10,4 @@ The **objective** is to analyze a dataset of the global average sea level change
 
 The file [**main**](https://github.com/LautaroOchotorena/Data-Analysis-with-Python-Freecodecamp/blob/main/Sea%20Level%20Predictor/main.py) runs the work done and also a [**test**](https://github.com/LautaroOchotorena/Data-Analysis-with-Python-Freecodecamp/blob/main/Sea%20Level%20Predictor/test_module.py) to be sure I completed the objective.
 
-You can also **check it out** [**here**]([https://replit.com/@LautaroOchotore/Page-View-Time-Series-Visualizer](https://replit.com/@LautaroOchotore/Sea-Level-Predictor)), to run it you have to be logged in and fork the proyect.
+You can also **check it out** [**here**]([https://replit.com/@LautaroOchotore/Page-View-Time-Series-Visualizer](https://replit.com/@LautaroOchotore/Sea-Level-Predictor)), to run it you have to be logged in and fork the project.
