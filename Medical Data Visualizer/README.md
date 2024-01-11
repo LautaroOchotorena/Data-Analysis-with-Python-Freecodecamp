@@ -10,4 +10,4 @@ The **objective** is to visualize and make calculations from medical examination
 
 The file [**main**](https://github.com/LautaroOchotorena/Data-Analysis-with-Python-Freecodecamp/blob/main/Medical%20Data%20Visualizer/main.py) runs the work done and also a [**test**](https://github.com/LautaroOchotorena/Data-Analysis-with-Python-Freecodecamp/blob/main/Medical%20Data%20Visualizer/test_module.py) to be sure I completed the objective.
 
-You can also **check it out** [**here**](https://replit.com/@LautaroOchotore/Medical-Data-Visualizer), to run it you have to be logged in and fork the proyect.
+You can also **check it out** [**here**](https://replit.com/@LautaroOchotore/Medical-Data-Visualizer), to run it you have to be logged in and fork the project.
