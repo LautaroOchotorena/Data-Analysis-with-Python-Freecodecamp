@@ -1,4 +1,3 @@
-<h2> Clarification: This project was created using Replit. You can check it on https://replit.com/@LautaroOchotore/Demographic-Data-Analyzer</h2>
 <h1>Demographic Data Analyzer</h1>
 <div class="challenge-instructions  "><div><section id="description">
 <p>You will be <a href="https://replit.com/github/freeCodeCamp/boilerplate-demographic-data-analyzer" target="_blank" rel="noopener noreferrer nofollow">working on this project with our Replit starter code</a>.</p>
