@@ -1,6 +1,6 @@
 # Mean, Variance and Standard deviation Calculator
 
-The objective is to use Numpy to create a certain type of output.
+The **objective** is to use Numpy to create a certain type of output.
 
 [**Instructions**](https://github.com/LautaroOchotorena/Data-Analysis-with-Python-Freecodecamp/blob/main/Mean%2C%20Variance%20and%20Standard%20deviation%20Calculator/Instructions.md) are provided.
 
