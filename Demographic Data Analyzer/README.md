@@ -1,6 +1,6 @@
 # Demographic Data Analyzer
 
-The objective is to analyze demographic data using Pandas and answer questions.
+The **objective** is to analyze demographic data using Pandas and answer questions.
 
 [**Instructions**](https://github.com/LautaroOchotorena/Data-Analysis-with-Python-Freecodecamp/blob/main/Demographic%20Data%20Analyzer/Instructions.md) are provided.
 
