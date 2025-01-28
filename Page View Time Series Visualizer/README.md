@@ -10,4 +10,4 @@ The **objective** is to visualize time series data using a line chart, bar chart
 
 The file [**main**](https://github.com/LautaroOchotorena/Data-Analysis-with-Python-Freecodecamp/blob/main/Page%20View%20Time%20Series%20Visualizer/main.py) runs the work done and also a [**test**](https://github.com/LautaroOchotorena/Data-Analysis-with-Python-Freecodecamp/blob/main/Page%20View%20Time%20Series%20Visualizer/test_module.py) to be sure I completed the objective.
 
-You can also **check it out** [**here**](https://freecodecam-boilerplate-xivwkvpzgr0.ws-us117.gitpod.io/), to run it you have to be logged in and fork the project.
+You can also **check it out** [**here**](https://freecodecam-boilerplate-xivwkvpzgr0.ws-us117.gitpod.io/), to run it you have to be logged in.
